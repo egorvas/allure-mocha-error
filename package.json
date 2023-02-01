@@ -1,0 +1,24 @@
+{
+  "name": "allure-mocha-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R allure-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorvas/allure-mocha-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egorvas/allure-mocha-error/issues"
+  },
+  "homepage": "https://github.com/egorvas/allure-mocha-error#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "allure-mocha": "2.0.0-beta.25",
+    "mocha": "10.2.0"
+  }
+}
